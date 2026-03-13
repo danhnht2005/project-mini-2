@@ -3,7 +3,7 @@
 Một dự án nhỏ (mini-project) tiếp theo nhằm mục đích rèn luyện và nâng cao kỹ năng xây dựng giao diện web (Frontend) thông qua việc "clone" (mô phỏng) lại trang chủ của mẫu giao diện **Softy Pinko** (từ TemplateMo).
 
 ## 🔗 Liên kết (Links)
-- **Live Demo (Vercel):** [https://project-mini-2-domain.vercel.app](https://project-mini-2-domain.vercel.app) *(Lưu ý: Cập nhật link thực tế sau khi deploy)*
+- **Live Demo (Vercel):** [https://project-mini-2-theta.vercel.app/](https://project-mini-2-theta.vercel.app/)
 - **Bản gốc tham khảo:** [TemplateMo Softy Pinko](https://templatemo.com/templates/templatemo_535_softy_pinko/)
 
 ---
